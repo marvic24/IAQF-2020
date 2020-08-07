@@ -1,8 +1,8 @@
 # IAQF-2020
 
 At the center of the 2020 US presidential election,
-given a qualitatively selected set of US equities (Appendix Table
-XII) that are expected to exhibit differential performance based
+given a qualitatively selected set of US equities 
+that are expected to exhibit differential performance based
 on the outcome of elections, we seek to explore if there is
 a difference in volatilities using a GARCH model and also
 investigate the rolling realized correlation of two portfolios.
